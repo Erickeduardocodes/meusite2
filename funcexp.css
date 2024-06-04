@@ -1,0 +1,26 @@
+body{color: aliceblue;
+background-color: rgb(54,54,54);
+font-family: 'Times New Roman', Times, serif;
+}
+.centro{text-align: center;}
+img{border-radius: 15px;
+border: 5px solid palevioletred;
+}
+main a{color: aliceblue;
+    list-style-type: none;
+    border: 3px solid purple blueviolet blue green yellowgreen yellow orange orangered red darkred;
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    background-color: purple;
+}
+main a :hover{background-color: aliceblue;}
+
+ul{list-style-type: none;}
+ul a :hover{background-color: rgb(255, 253, 255);}
+ul :hover{color: darkgray;}
+nav{background-color: rgb(64, 64, 64);
+padding: 3px;
+border-radius: 10px;
+}
